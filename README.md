@@ -2,6 +2,6 @@
 
 ###Purpose
 
-To create a repository and push files to github
+To create a repository and push a simple HTML file to github
 
-A basic HTML file was used
+
